@@ -1,0 +1,5 @@
+{
+  "name": "LogicMap Decision Engine",
+  "description": "A 'Cognitive Calculus' decision support system based on Dr. Yingxu Wang’s Cognitive Informatics, treating choices as formal Cartesian-product-based selections.",
+  "requestFramePermissions": []
+}
